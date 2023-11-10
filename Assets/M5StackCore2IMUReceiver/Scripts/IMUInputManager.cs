@@ -61,9 +61,9 @@ public class IMUInputManager : MonoBehaviour
     /// ジャイロ
     /// </summary>
     public Vector3 Gyro;
-    
+
     /// <summary>
-    /// 姿勢航法基準装置（Attitude and Heading Reference System）
+    /// 姿勢方位基準システム（Attitude and Heading Reference System）
     /// Pitch(), Roll(), Yaw()
     /// </summary>
     public Vector3 Ahrs;

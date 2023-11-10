@@ -297,10 +297,10 @@ MonoBehaviour:
   - COM5
   - COM8
   - COM9
-  Acceleration: {x: 0.01, y: 0.01, z: 1.07}
-  Gyro: {x: -2.08, y: -1.28, z: -7.93}
-  Ahrs: {x: -2.32, y: -0.66, z: 145.14}
-  AutoOpenSerial: 1
+  Acceleration: {x: 0.01, y: 0, z: 1.07}
+  Gyro: {x: -2.62, y: -1.34, z: -8.12}
+  Ahrs: {x: -2.53, y: -1.94, z: 3.49}
+  AutoOpenSerial: 0
   SerialPortName: COM9
   ShowSettingWindow: 1
   ShowSettingWindowKey: 48
